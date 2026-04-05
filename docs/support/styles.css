@@ -149,6 +149,21 @@ li {
   margin-bottom: 20px;
 }
 
+.topbar.with-back {
+  justify-content: space-between;
+}
+
+.back-link {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 600;
+  padding: 8px 0;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
 .lang-links {
   display: flex;
   flex-wrap: wrap;
