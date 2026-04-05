@@ -2,11 +2,11 @@
 
 Official support site for `Offline Xiangqi`.
 
-- Website: https://aaronyu2017.github.io/offline-xiangqi-support/
-- Privacy: https://aaronyu2017.github.io/offline-xiangqi-support/privacy.html
+- English website: https://aaronyu2017.github.io/offline-xiangqi-support/en/
+- English privacy: https://aaronyu2017.github.io/offline-xiangqi-support/en/privacy.html
 - Issues: https://github.com/AaronYu2017/offline-xiangqi-support/issues
 
-Available in 简体中文 / 繁體中文 / English. Use the language switcher in the top-right corner of the website.
+The support site is also available in 简体中文 and 繁體中文.
 
 ---
 
@@ -14,11 +14,11 @@ Available in 简体中文 / 繁體中文 / English. Use the language switcher in
 
 這是「離線象棋」的公開支援網站與問題回報入口。
 
-- 網站：https://aaronyu2017.github.io/offline-xiangqi-support/
+- 網站：https://aaronyu2017.github.io/offline-xiangqi-support/zh-Hant/
 - 隱私政策：https://aaronyu2017.github.io/offline-xiangqi-support/zh-Hant/privacy.html
 - 問題回報：https://github.com/AaronYu2017/offline-xiangqi-support/issues
 
-網站支援 简体中文 / 繁體中文 / English，可在右上角切換語言。
+網站也支援简体中文與 English。
 
 ---
 
@@ -30,4 +30,4 @@ Available in 简体中文 / 繁體中文 / English. Use the language switcher in
 - 隐私政策：https://aaronyu2017.github.io/offline-xiangqi-support/privacy.html
 - 问题反馈：https://github.com/AaronYu2017/offline-xiangqi-support/issues
 
-网站支持 简体中文 / 繁體中文 / English，可在右上角切换语言。
+网站也支持 繁體中文 和 English。
